@@ -20,11 +20,11 @@ if (string.toLowerCase() === string)
 {
   return"I can't hear you!"
 }
-if (string.toUpperCase()===strong)
+else if (string.toUpperCase()===strong)
 {
  return "YES INDEED!"
 }
-if (string==="I love you, Grandma")
+else if (string==="I love you, Grandma")
 {
   return "I love you, too."
 }
